@@ -1,6 +1,6 @@
 # Air Pollution and Cancer Stage Prediction
 
-![image]([https://domf5oio6qrcr.cloudfront.net/medialibrary/10245/GettyImages-1098018152.jpg](https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJvYXV0aCI6eyJjbGllbnRfaWQiOiJjbGllbnQtY2hkcnR4NWphaHV0Y2hsdiJ9LCJwYXRoIjoiaWhoLWhlYWx0aGNhcmUtYmVyaGFkXC9maWxlXC9TZDdSWHNVc296YU1OcDVUS1NGZS5qcGcifQ:ihh-healthcare-berhad:3UnWSiHh7OJoyloGUOWG64SKUTdKFnSx7sY5d1IrFN0?width=854&height=480&crop=fp&fp=0.5%2C0.5&fp_zoom=1))
+![image](https://domf5oio6qrcr.cloudfront.net/medialibrary/10245/GettyImages-1098018152.jpg](https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJvYXV0aCI6eyJjbGllbnRfaWQiOiJjbGllbnQtY2hkcnR4NWphaHV0Y2hsdiJ9LCJwYXRoIjoiaWhoLWhlYWx0aGNhcmUtYmVyaGFkXC9maWxlXC9TZDdSWHNVc296YU1OcDVUS1NGZS5qcGcifQ:ihh-healthcare-berhad:3UnWSiHh7OJoyloGUOWG64SKUTdKFnSx7sY5d1IrFN0?width=854&height=480&crop=fp&fp=0.5%2C0.5&fp_zoom=1)
 
 ## Project Overview
 
