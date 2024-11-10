@@ -29,18 +29,17 @@ Our model is a neural network based on an MLP (Multi-Layer Perceptron) architect
 This model are trained and tested on the dataset to predict the best stage of cirrhosis.
 
 ### 7. Model Evaluation
-Models are evaluated using various metrics, such as confusion matrices, classification reports, and accuracy scores. These metrics help assess the effectiveness of each model and choose the one that yields the best results.
+Models are evaluated using various metrics, such as confusion matrices, classification reports, and accuracy scores. Thanks to this, we can determine the optimal dropout value for our model, as well as the ideal initial density for the layers
 
 ### 8. Conclusions
-Based on the results of the analysis, conclusions are drawn about the potential link between air pollution and cancer progression. Additionally, the performance of different machine learning models in predicting cancer stages is evaluated.
+Based on the results of the analysis, conclusions are drawn between physical and neurological symptoms and liver cirrhosis and/or HCV progression. Additionally, the performance of different machine learning models in predicting liver cirrhosis stages is evaluated.
 
 ## Potential Applications
 
-The results of this project could be used for:
+The results of this project can be used to:
 
-- Raising awareness about the impact of air pollution on health.
-- Supporting policymakers in designing policies aimed at reducing air pollution.
-- Assisting healthcare professionals in identifying patients at higher risk of advanced cancer stages.
+- Raise awareness of HCV and/or cirrhosis testing when symptoms are noticed
+- Help healthcare professionals identify patients at higher risk of advanced stages of cirrhosis and HCV.
 
 This project contributes to research on environmental impacts on health and can help improve patients' quality of life while promoting environmental protection.
 
