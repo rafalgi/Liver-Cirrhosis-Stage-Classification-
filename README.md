@@ -18,20 +18,15 @@ Data is loaded from a CSV file. Preliminary analysis includes displaying the fir
 The data is cleaned by removing duplicates and checking for missing values to avoid errors in further analysis.
 
 ### 4. Target Variable Encoding
-The target variable, i.e., the cirrhosis stage (`Stage`), is encoded into numerical values so it can be used in machine learning models. No columns such are removed, because they all have impact on the stage of cirrhosis.
+The target variable, i.e., the cirrhosis stage (`Stage`), is encoded into numerical values so it can be used in machine learning models. No columns were removed, because they all have impact on the stage of cirrhosis.
 
 ### 5. Data Visualization
 The data is visualized to better understand the distribution of variables and the correlation between them. Techniques such as pie charts are used to show the distribution of cirrhosis stages, and heatmaps are used to display correlations between variables.
 
 ### 6. Building Machine Learning Models
-Various machine learning models are built in the project, including:
+Our model is a neural network based on an MLP (Multi-Layer Perceptron) architecture with Dropout. We introduce appropriate densities, which are powers of two, reducing them by half at each layer until reaching the final density of 3, as we have three outputs. We use the RELU activation function for these layers, followed by SOFTMAX at the end. Between the dense layers, we apply Dropout with varying values (typically between 0.3 and 0.1).
 
-- K-Nearest Neighbors (KNN)
-- Random Forest
-- Naive Bayes
-- Decision Tree
-
-These models are trained and tested on the dataset, and their performance is compared to select the best model for predicting the cancer stage.
+This model are trained and tested on the dataset to predict the best stage of cirrhosis.
 
 ### 7. Model Evaluation
 Models are evaluated using various metrics, such as confusion matrices, classification reports, and accuracy scores. These metrics help assess the effectiveness of each model and choose the one that yields the best results.
